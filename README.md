@@ -1,0 +1,1 @@
+This repository is for my own practice where I try to learn the C language. The lessons I follow are mainly from the playlist of Dr Jonas Birch on YouTube. I intend to understand and re-learn the language that I have forgotten over time because I had not been working in this for a very long time.
