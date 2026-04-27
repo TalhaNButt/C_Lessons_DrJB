@@ -7,7 +7,7 @@ char name[16];
 
 printf("Hello user, what is your name?\n");
 
-scanf("%s", name);
+scanf("%s", &name);
 
 printf("Hello %s\n", name);
 
