@@ -56,7 +56,7 @@ balance = (bet * 3) + balance;
 printf("WOWWWW!!! YOU WON\n");
 printf("Your new balance is: %d\n", balance);
 } else {
-balance = balance - bet;
+balance -= bet;
 
 printf("OOPS you lost\n");
 printf("Your balance is: %d\n", balance);
