@@ -15,6 +15,7 @@ return random;
 int main()
 {
 int balance, bet, guess, dice; 
+srand(getpid());
 
 balance = 1000;
 
@@ -43,7 +44,7 @@ sleep(2);
 return 0;	
 }
 
-srand(getpid());
+//srand(getpid());
 
 dice = our_random_number(5);
 
